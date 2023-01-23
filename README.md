@@ -1,4 +1,4 @@
-# pruba-matploit-numpy-y-pandas
+# prueba-matploit-numpy-y-pandas
 
 Prueba de analisis de datos>
 uso de pandas,matploitlib,numpy
